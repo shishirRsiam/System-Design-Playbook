@@ -1,2 +1,4 @@
 29-03-2025 23:22:38  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
 29-03-2025 23:22:43  338  git add .
+29-03-2025 23:22:59  339  git commit -am"1. System Design Fundamentals"
+29-03-2025 23:23:08  340  git push
