@@ -5,3 +5,7 @@
 29-03-2025 23:26:27  341  git commit -am"2. Core Components"
 29-03-2025 23:26:35  342  git push
 29-03-2025 23:27:15  343  git add .
+29-03-2025 23:27:17  344  git commit -am"2. Core Components"
+29-03-2025 23:27:24  345  git push
+30-03-2025 03:04:19  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
+30-03-2025 03:04:49  338  git add .
