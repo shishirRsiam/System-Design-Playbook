@@ -9,3 +9,6 @@
 29-03-2025 23:27:24  345  git push
 30-03-2025 03:04:19  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
 30-03-2025 03:04:49  338  git add .
+30-03-2025 03:04:54  339  git commit -am"3. Components of System Design"
+30-03-2025 03:05:07  340  git push
+30-03-2025 03:14:25  341  git add .
