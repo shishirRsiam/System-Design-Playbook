@@ -19,3 +19,6 @@
 30-03-2025 03:17:08  346  git push
 10-04-2025 23:00:24  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
 10-04-2025 23:01:57  338  git add .
+10-04-2025 23:02:06  339  git commit -am"update readme.md files"
+10-04-2025 23:02:14  340  git push
+10-04-2025 23:58:02  341  git add .
