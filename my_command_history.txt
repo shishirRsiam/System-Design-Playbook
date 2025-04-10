@@ -28,3 +28,7 @@
 11-04-2025 00:01:50  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
 11-04-2025 00:03:02  338  git status
 11-04-2025 00:04:32  339  git add .
+11-04-2025 00:04:36  340  git commit -am"2. Generating Short URL's"
+11-04-2025 00:05:27  341  git push
+11-04-2025 00:05:39  342  git push
+11-04-2025 00:09:44  343  git add .
