@@ -43,3 +43,7 @@
 11-04-2025 20:47:31  340  git push
 11-04-2025 20:54:13  341  it add .
 11-04-2025 20:54:18  342  git add .
+11-04-2025 20:54:22  343  git commit -am"5. Generatinng Short URL"
+11-04-2025 20:54:36  344  git push
+11-04-2025 21:03:16  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
+11-04-2025 21:29:59  338  git add .
