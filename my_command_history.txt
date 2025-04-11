@@ -39,3 +39,7 @@
 11-04-2025 11:37:59  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
 11-04-2025 20:05:45  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
 11-04-2025 20:47:14  338  git add .
+11-04-2025 20:47:20  339  git commit -am"4. Redis Cache for Improve Performance"
+11-04-2025 20:47:31  340  git push
+11-04-2025 20:54:13  341  it add .
+11-04-2025 20:54:18  342  git add .
