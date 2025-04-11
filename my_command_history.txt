@@ -50,3 +50,7 @@
 11-04-2025 21:29:59  339  git commit -am "6. Obtaining Long URL"
 11-04-2025 21:30:13  340  git push
 11-04-2025 22:28:57  341  git add .
+11-04-2025 22:28:58  342  git commit -am "7. Redirect HTTP Status Code"
+11-04-2025 22:29:17  343  git push
+11-04-2025 22:32:02  344  mkdir 3. Design A Scalable Notification System
+11-04-2025 22:33:47  345  git add .
