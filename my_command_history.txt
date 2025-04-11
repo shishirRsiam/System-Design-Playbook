@@ -32,3 +32,10 @@
 11-04-2025 00:05:27  341  git push
 11-04-2025 00:05:39  342  git push
 11-04-2025 00:09:44  343  git add .
+11-04-2025 00:09:53  344  git commit -am"3. Table Schema"
+11-04-2025 00:12:13  345  git push
+11-04-2025 09:41:01  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
+11-04-2025 10:22:58  338  git push
+11-04-2025 11:37:59  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
+11-04-2025 20:05:45  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
+11-04-2025 20:47:14  338  git add .
