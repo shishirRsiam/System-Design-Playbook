@@ -91,3 +91,7 @@
 12-04-2025 22:00:38  349  git commit -am "3. Create a Post(Simple)"
 12-04-2025 22:02:58  350  git push
 12-04-2025 22:04:01  351  git add .
+12-04-2025 22:04:02  352  git commit -am "4. Create a Post(Additional Work)"
+12-04-2025 22:04:48  353  git push
+12-04-2025 22:07:15  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
+12-04-2025 22:07:36  338  git add .
