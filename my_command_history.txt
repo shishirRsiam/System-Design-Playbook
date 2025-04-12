@@ -78,3 +78,6 @@
 12-04-2025 21:04:26  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
 12-04-2025 21:04:26  337  PROMPT_COMMAND='echo "$(date +"%d-%m-%Y %H:%M:%S") $(history 1)" >> ./my_command_history.txt'
 12-04-2025 21:12:03  338  it add .
+12-04-2025 21:12:04  339  git commit -am "1. Requirements"
+12-04-2025 21:12:08  340  git push
+12-04-2025 21:12:37  341  git add .
