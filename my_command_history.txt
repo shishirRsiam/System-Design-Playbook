@@ -124,3 +124,6 @@
 13-04-2025 22:18:35  348  git commit -am "3. Fixed Window or Sliding Window"
 13-04-2025 22:18:42  349  git push
 13-04-2025 22:19:53  350  git add .
+13-04-2025 22:19:55  351  git commit -am "4. Are we Okay with Increased Latency"
+13-04-2025 22:20:01  352  git push
+13-04-2025 22:22:04  353  git add .
