@@ -166,3 +166,6 @@
 13-04-2025 23:12:57  390  git commit -am "17. Final Architecture"
 13-04-2025 23:13:09  391  git push
 13-04-2025 23:16:11  392  git add .
+13-04-2025 23:16:12  393  git commit -am "What is HTTP"
+13-04-2025 23:16:17  394  git push
+13-04-2025 23:23:30  395  git add HTTP_Status_Code_Cheat_Sheet.pdf 
