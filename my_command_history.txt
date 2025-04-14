@@ -182,3 +182,6 @@
 14-04-2025 23:01:11  342  git commit -am "2. Visualizations"
 14-04-2025 23:01:34  343  git push
 14-04-2025 23:02:13  344  git add .
+14-04-2025 23:02:14  345  git commit -am "3. Map Example"
+14-04-2025 23:02:38  346  git push
+14-04-2025 23:03:20  347  git add .
